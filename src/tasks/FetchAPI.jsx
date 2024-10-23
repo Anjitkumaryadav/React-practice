@@ -8,7 +8,7 @@ function FetchAPI() {
       .then((json) => setData(json));
   }, []);
   console.log(data);
-  return (
+  return ( 
     <div>
       {data ? (
         <div>
