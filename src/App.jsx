@@ -9,6 +9,7 @@ import TodoList from "./tasks/TodoList";
 import UseRefs from "./tasks/UseRefs";
 import ChangeBG from "./tasks/ChangeBG";
 import RandomQuote from "./tasks/RandomQuote";
+import FileUploader from "./tasks/FileUploader";
 
 
 
@@ -27,7 +28,8 @@ function App() {
       {/* <TodoList/> */}
       {/* <UseRefs/> */}
       {/* <ChangeBG/> */}
-      <RandomQuote/>
+      {/* <RandomQuote/> */}
+      <FileUploader/>
     </div>
     
        
