@@ -24,10 +24,10 @@ function App() {
       {/* <Toggle/> */}
       {/* <FetchAPI/> */}
       {/* <CountsDown/> */}
-      <TodoList/>
+      {/* <TodoList/> */}
       {/* <UseRefs/> */}
       {/* <ChangeBG/> */}
-      {/* <RandomQuote/> */}
+      <RandomQuote/>
     </div>
     
        
