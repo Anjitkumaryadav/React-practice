@@ -10,6 +10,11 @@ import UseRefs from "./tasks/UseRefs";
 import ChangeBG from "./tasks/ChangeBG";
 import RandomQuote from "./tasks/RandomQuote";
 import FileUploader from "./tasks/FileUploader";
+import Registration from "./tasks/Registration";
+import Weather from "./tasks/Weather";
+import DigitalClock from "./tasks/DigitalClock";
+import Checking from "./tasks/Checking";
+import ColorPalette from "./tasks/ColorPallette";
 
 
 
@@ -29,7 +34,13 @@ function App() {
       {/* <UseRefs/> */}
       {/* <ChangeBG/> */}
       {/* <RandomQuote/> */}
-      <FileUploader/>
+      {/* <FileUploader/> */}
+      {/* <Registration/> */}
+       {/* <Weather /> */}
+        
+      {/* <DigitalClock/> */}
+      {/* <Checking/> */}
+      <ColorPalette/>
     </div>
     
        
